@@ -55,7 +55,7 @@ body {
     background-color: #0056b3;
 }
 
-@media (min-width: 1080px) {
+@media (max-width: 1080px) {
     .button {
         top: 1110px;
     }
