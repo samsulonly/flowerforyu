@@ -38,7 +38,7 @@ body {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 1110px;
+    
 }
 
 .button a {
@@ -53,4 +53,10 @@ body {
 
 .button a:hover {
     background-color: #0056b3;
+}
+
+@media (min-width: 1080px) {
+    .button {
+        top: 1110px;
+    }
 }
