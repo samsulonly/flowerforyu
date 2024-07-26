@@ -38,6 +38,7 @@ body {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
+    top: 1110px;
 }
 
 .button a {
